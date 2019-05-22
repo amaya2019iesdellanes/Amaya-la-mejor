@@ -1,2 +1,2 @@
-# Amaya-la-mejor
+# Programa
 Primer programa php
